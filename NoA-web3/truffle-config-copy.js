@@ -15,7 +15,7 @@ const URL = "https://api.baobab.klaytn.net:8651";
 
 // Paste your `Private key` that has enough KLAY to truffle.js
 const PRIVATE_KEY =
-    "0xc54f88a4d5c301fce49ca2a6b44f8990ed888baa8b4f7b154ba4458721adaeebtest";
+   
 
 module.exports = {
     networks: {
