@@ -3,7 +3,7 @@ const fs = require("fs");
 //const mnemonic = fs.readFileSync(".secret").toString().trim();
 const account = "0xB32c39cCf4f9077C2217233D2f00676Ae872da2a";
 const privateKey =
-    "d4076c0ea2a9ddbcc578668bdf853b72cd4834d506b6c294da01e4eadcc9f5c4";
+    
 module.exports = {
     networks: {
         // Useful for testing. The `development` name is special - truffle uses it by default
